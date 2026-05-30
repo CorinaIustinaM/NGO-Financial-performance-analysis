@@ -24,7 +24,7 @@ All personal and organizational information was anonymized prior to analysis.
 - Excel (data cleaning)
 
 ## Dashboard
-🔗 https://public.tableau.com/app/profile/corina.mocanu/viz/Dashboard1_NGOFinancialOverview/NGO_4-year_budget
+🔗 [https://public.tableau.com/app/profile/corina.mocanu/viz/Dashboard1_NGOFinancialOverview/NGO_4-year_budget](https://public.tableau.com/views/Dashboard1_NGOFinancialOverview/NGO_4-year_budget?:language=en-GB&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 The dashboard includes:
 - Revenue and Expense Trends Over Time
