@@ -33,6 +33,10 @@ The dashboard includes:
 - Breakdown of Revenue and Expenses by Category
 - Expense Distribution by Category
 
+## Dashboard Preview
+
+![Dashboard Preview](dashboard_screenshot.pnh)
+
 ## Key Insights
 
 - Membership fees represent ~68% of total revenue, making the organization highly dependent on its members
@@ -45,5 +49,4 @@ The dashboard includes:
 
 The organization is financially stable in most years but relies heavily on membership revenue.  
 A decline in membership or an increase in costs could negatively impact long-term sustainability.
-
 
