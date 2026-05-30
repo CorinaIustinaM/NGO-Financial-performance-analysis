@@ -35,7 +35,7 @@ The dashboard includes:
 
 ## Dashboard Preview
 
-![Dashboard Preview](dashboard_screenshot.pnh)
+![Dashboard Preview](dashboard_screenshot.png)
 
 ## Key Insights
 
